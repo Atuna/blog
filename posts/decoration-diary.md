@@ -4,7 +4,6 @@ excerpt: '记录了老家翻新装修过程的点点滴滴：构思，沟通，�
 coverImage: 'https://raw.githubusercontent.com/Atuna/blog/master/assets/blog/decoration-diary/cover.webp'
 date: '2020-07-30'
 updateDate: '2020-07-30'
-author: 魏澍榕
 ---
 
 设计师的渲染图已经给出，而风格也从最初的日式，北欧的风格到现在有点法式轻奢的感觉。
