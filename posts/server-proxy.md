@@ -7,11 +7,9 @@ date: '2020-07-30'
 我现在的博客的静态内容是挂载在github仓库下，每次加载博文时都会向[https://raw.githubusercontent.com](https://raw.githubusercontent.com)发送请求。但因为国内网络原因，这个必须通过代理服务去请求才能保持稳定。看上去很简单的一个需求。没想到坑也挺多的。换了几个方案，最后还是选择了使用[`node-fetch`](https://github.com/node-fetch/node-fetch)来发送请求，同时配合[`proxy-agent`](https://github.com/TooTallNate/node-proxy-agent)来生成代理配置。有两点考虑：
 
 - 库足够精简，符合Do one thing, and do it well的原则
-- 都只是对标准的实现，并没有黑魔法：
-  - `proxy-agent`: [http.Agent](https://nodejs.org/api/http.html#http_class_http_agent)
-  - `node-fetch`: [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- 都只是对标准的实现，并没有黑魔法： `PROXY-AGENT`用的[HTTP.aGENT](HTTPS://NODEJS.ORG/API/HTTP.HTML#HTTP_CLASS_HTTP_AGENT)，`NODE-FETCH`用的[fETCH](HTTPS://DEVELOPER.MOZILLA.ORG/EN-us/DOCS/wEB/api/fETCH_api)
 
-但其实我一开始并不是用的这个方案，而是选择了[`request`]
+但其实我一开始并不是用的这个方案，而是选择了`request`
 https://github.com/request/request/issues/3142
 https://github.com/request/request#proxies
 
