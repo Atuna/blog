@@ -3,7 +3,7 @@
 下载5.0.19版本之前的[米家App](https://mi-home.en.uptodown.com/android/download/1690042)
 
 
-android模拟器 http://mumu.163.com/
+Android模拟器 http://mumu.163.com/
 
 [利用wireshark插件抓包米家设备miio局域网UDP包](https://v2ex.com/t/625376)
 
@@ -14,8 +14,6 @@ android模拟器 http://mumu.163.com/
 [如何评价Home Assistant](https://www.v2ex.com/t/421873)
 
 [入坑 HomeKit，咨询下大家是怎么玩的](https://www.v2ex.com/t/421873)
-
-[]
 
 
 ```
@@ -40,6 +38,6 @@ Zigbee 终端设备 -> Zigbee网关 -> tcp/udp -> 自己写的驱动程序 -> �
 消息队列一般用**MQTT**，这个已经成物联网事实标准了。
 
 
-https://github.com/pkozul/ha-floorplan
-
-https://demo.home-assistant.io/#/lovelace/0
+[1]: https://github.com/pkozul/ha-floorplan
+[2]: https://demo.home-assistant.io/#/lovelace/0
+[3]: https://www.google.com/search?q=site:v2ex.com/t%20home+assistant
