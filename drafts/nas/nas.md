@@ -65,6 +65,22 @@ docker引擎运行在操作系统上，docker容器利用docker引擎运行，�
 
 另一个重要的原因是，docker的部署相对于exsi来说简单得多。利用docker镜像，就可以创建相同的docker容器，省去了烦琐的配置与调试。
 
+
+尽管额外的OP会让SSD有[更好的性能][8]和寿命，但你并不需要自己手动配置未分区空间来作为OP，Knet Smith在[这里][9]具体解释到提到：
+> When a user does not fill the entire range of LBAs known to Windows, the controller automatically uses that space as dynamic over-provisioning (assuming the OS and SSD support TRIM).
+
+> If you never store more than 750GB of data and keep TRIM on (dont disable it), you will see the same performance as the guy who creates a 750GB partition.
+
+
+NAT性能需要大于带宽，才不会造成[瓶颈][11]
+无论是不是[公网IP][12]，光猫都要设置为桥接模式，才能让下发的IP落在路由器上，然后再配合端口转发或DMZ（不推荐，会让NAS暴露在互联网下没有防火墙保护）就可以从公网访问NAS服务了
+
+公网IP，端口转发，动态域名[12]，用白群晖的话有他自己的域名服务
+
+Transmission[13]
+
+NFS相较SMBCPU占用较低
+
 ## 软件
 
 Jellyfin文件管理
@@ -76,6 +92,11 @@ https://jingyan.baidu.com/article/e2284b2b5a99e4e2e6118d0e.html
 远程开机
 https://www.zhihu.com/question/338705949/answer/912480378
 
+外网无法访问的问题：
+https://whatismyipaddress.com/
+https://bbs.ui.com.cn/t/ip/49132 "有公网ip，端口映射后外网无法访问"
+https://bbs.ui.com.cn/t/edgerouter-dnat/41657 "DNAT"
+https://www.zhihu.com/question/278726503
 
 [1]: https://www.zhihu.com/question/21359049/answer/34375825
 [2]: https://s.taobao.com/search?q=J3455
@@ -84,3 +105,14 @@ https://www.zhihu.com/question/338705949/answer/912480378
 [5]: https://www.zhihu.com/question/317765503/answer/1055708744 "家庭装修，现在网线布六类还是七类线比较好？ - 大盗的回答 - 知乎"
 [6]: https://www.quora.com/Is-the-speed-of-SSD-and-RAM-the-same "SSD比内存慢了两个数量级"
 [7]: https://unix.stackexchange.com/questions/2658/why-use-swap-when-there-is-more-than-enough-free-space-in-ram "linux会把内存中比较少用到的部分放到swap里"
+[8]: https://www.anandtech.com/show/6489/playing-with-op "预留空间对SSD的影响"
+[9]: https://blog.seagate.com/intelligent/gassing-up-your-ssd/
+[9.1]: https://forums.anandtech.com/threads/a-question-about-overprovisioning-in-ssds.2497601/
+[10]: https://www.techspot.com/news/52835-understanding-ssds-the-need-for-trim-overprovisioning-and-more.html
+[11]: https://www.bilibili.com/video/BV1vz411b7tC?t=1m52s
+[12]: https://www.bilibili.com/video/BV1Z4411n7JB?t=3m58s
+[12.1]: https://www.v2ex.com/t/582688 "如何得到公网IP"
+[13]: https://www.bilibili.com/video/BV1H4411p7LA?t=19m02s
+[14]: https://www.tinymediamanager.org/
+[15]: https://post.smzdm.com/p/a4wmwkrl/ "利用tinyMediaManager刮削影片，解决plex电影墙的问题"
+

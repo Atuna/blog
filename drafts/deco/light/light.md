@@ -44,5 +44,5 @@
 沙发灯带
 床头灯带
 
-
 [1]: https://www.epd.gov.hk/eia/register/report/eiareport/eia_2522017/EIA/html/Appendix/Appendix%2011.1.pdf
+[2]: https://zhuanlan.zhihu.com/p/85688897 "橱柜灯安装"
