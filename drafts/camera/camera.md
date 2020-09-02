@@ -141,6 +141,71 @@ FE 50F1.8只要1700
 FE 28-70F3.5-5.6只要2120
 
 
+XT30如何
+视频自动对焦能力
+10Bit 都有
+422 外录都支持，内录不支持
+镜头防抖与机身防抖[16]
+
+XT20
+auto dial
+XT30
+4K30P
+f-log
+
+XT3
+
+
+
+宽容度和索尼的区别[17]，似乎没有什么区别。而且视频时富士的镜头的镜头是用的对焦性能比较差的
+
+6400和稳定器的适配更好，可以光学变焦但需要搭配PZ(Power Zoom)镜头
+
+麦克风的适配
+
+### √ XT4 ￥11550 + 1855/2.8-4 ￥14390
+翻转屏
+√ 机身防抖
+√ 独立的视频照片切换按钮
+更大的电池
+
+### XT3 ￥8320.00 + 
+bigger EVF
+3.5 mm mini-stereo jack
+bigger battery
+lack of auto dial
+4K60P
+weather proof
+
+### √ XT30 ￥6000 + 1855/2.8-4 ￥8790
+更好的直出色彩，内录规格和6400一样，
+外录10bit 422，
+更好的视频超采样
+更好看的机身
+更多的适合我的镜头选择(需要搭配更新的原厂镜头)，
+
+### 6400 ￥5568 + 30/1.4 ￥7498
+可翻转屏幕
+更好的对焦
+可以用ronin sc控制变焦
+1080P竟然没有超采（4K有）
+
+翻转屏可以用光学镜解决[23][24]，关键的视频对焦能力
+
+
+### GH5
+翻转屏，完美的视频性能，而且需要外接录机才能发挥
+对焦差
+价格贵了两档
+
+偏于摄像的相机会有较低的有效像素以换取更高的像素质量。
+
+我的需求：
+旅游摄影，
+在家拍摄，需要看见自己
+
+
+
 [1]: https://www.youtube.com/watch?v=vOUxtszLICM "APS-C vs FULL FRAME - Does It Really Matter?"
 [2]: https://www.youtube.com/watch?v=hi_CkZ0sGAw "Crop Factor TRUTH: Do you need Full Frame?"
 [3]: https://www.zhihu.com/question/20161781/answer/29857267 "APS-C画幅与全画幅的区别? - 王波的回答 - 知乎"
@@ -156,3 +221,16 @@ FE 28-70F3.5-5.6只要2120
 [13]: https://www.bilibili.com/video/av33926669/
 [14]: https://www.youtube.com/watch?v=JWPRiCw7IdQ "16mm镜头的6400在Vlog下的表现"
 [15]: https://www.zhihu.com/question/363677151/answer/963033417 "富士相机或者富士用户在摄影圈是怎样的存在？ - 捷里米的回答 - 知乎 关于富士的一些反而评价"
+[16]: https://www.zhihu.com/question/324958751/answer/689087878 "镜头光学防抖（OIS）和机身防抖（IBIS）有什么区别，两者实际的防抖效果谁更好？ - 汲墨Carlo的回答 - 知乎"
+[17]: https://www.youtube.com/watch?v=JJd51a8aI9M&t=72 "XT30 a6400对比"
+[17.1]: https://www.youtube.com/watch?v=r0ga0KPfGso "6400副厂头视频对焦"
+[17.2]: https://www.youtube.com/watch?v=zs_02Ck-9fs
+[18.1]: https://www.dji.com/cn/support/compatibility/ronin-sc/a6400
+[18.2]: https://www.dji.com/cn/support/compatibility/ronin-sc/xt20
+[19]: https://www.zhihu.com/question/366728692/answer/991325486 "拍视频是买a6600还是xt3? - 黄飚的回答 - 知乎"
+
+[20]: https://zh.wikipedia.org/wiki/富士X卡口镜头列表
+[21]: https://www.fujifilm.com.cn/products/digital_cameras/x/
+[22]: https://en.wikipedia.org/wiki/Fujifilm_X-mount
+[23]: https://www.youtube.com/watch?v=qcC_ZKTTvTo?t=8m22s
+[24]: https://www.bilibili.com/video/BV1UE411J7zg
