@@ -178,15 +178,17 @@ lack of auto dial
 weather proof
 
 ### √ XT30 ￥6000 + 1855/2.8-4 ￥8790
-更好的直出色彩，内录规格和6400一样，
-外录10bit 422，
-更好的视频超采样
+√ 更好的直出色彩，内录规格和6400一样，
+√ 外录10bit 422，
+√ 更好1080P超采样
+视频数字防抖
+支持PD直充[26](索尼需要用电池转接头)
 更好看的机身
 更多的适合我的镜头选择(需要搭配更新的原厂镜头)，
 
 ### 6400 ￥5568 + 30/1.4 ￥7498
-可翻转屏幕
-更好的对焦
+√ 更好的对焦
+√ 可翻转屏幕
 可以用ronin sc控制变焦
 1080P竟然没有超采（4K有）
 
@@ -203,6 +205,8 @@ weather proof
 我的需求：
 旅游摄影，
 在家拍摄，需要看见自己
+
+富士在国外经常打折[25]
 
 
 
@@ -234,3 +238,5 @@ weather proof
 [22]: https://en.wikipedia.org/wiki/Fujifilm_X-mount
 [23]: https://www.youtube.com/watch?v=qcC_ZKTTvTo?t=8m22s
 [24]: https://www.bilibili.com/video/BV1UE411J7zg
+[25]: https://www.camerapro.com.au/
+[26]: https://www.theverge.com/2019/4/12/18306026/fujifilm-xt30-camera-review-fuji-xt3-mirrorless

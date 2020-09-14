@@ -44,5 +44,14 @@
 沙发灯带
 床头灯带
 
+## 需要配置智能开关的地方，
+- 客厅总开关
+- 主卧入户开关
+
+可以使用[泛影智能灯带][3]配合[调光开关][4]使用。
+
+
 [1]: https://www.epd.gov.hk/eia/register/report/eiareport/eia_2522017/EIA/html/Appendix/Appendix%2011.1.pdf
 [2]: https://zhuanlan.zhihu.com/p/85688897 "橱柜灯安装"
+[3]: https://detail.tmall.com/item.htm?id=597277685310
+[4]: https://detail.tmall.com/item.htm?id=612163343308
