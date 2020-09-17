@@ -37,3 +37,5 @@ var getExpanded = (d, w, h, vn, hn, ) => getSurface(d, w, h) - w*h
 |主卧窗边柜|400|2720|300|
 |衣帽间衣柜|600|400|2300|
 
+
+[1]: https://zhuanlan.zhihu.com/p/32277187 "干货|史上最全板式家具结构与连接方式"

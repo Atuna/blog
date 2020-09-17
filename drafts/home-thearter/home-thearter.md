@@ -114,3 +114,5 @@ https://zhuanlan.zhihu.com/p/39908722
 
 [1]: http://bbs.hifidiy.net/forum.php?mod=redirect&goto=findpost&ptid=951522&pid=22500369 "摆位和倒向孔开前，开后没有关系"
 
+
+https://www.bilibili.com/video/av94293208/
