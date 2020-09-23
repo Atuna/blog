@@ -99,9 +99,9 @@ https://bbs.ui.com.cn/t/edgerouter-dnat/41657 "DNAT"
 https://www.zhihu.com/question/278726503
 
 ## 内存管理
+![](./ssd-swap.png)
 我刚刚咨询了一下技术主管
 当我们只有一块SSD做系统盘的话，交换分区是不会占用这块SSD的空间的
-
 [17]
 
 [1]: https://www.zhihu.com/question/21359049/answer/34375825
