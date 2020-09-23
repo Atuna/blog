@@ -29,7 +29,6 @@ i9 8核 2.4Ghz  1129 7022
 
 https://forums.macrumors.com/threads/fcp-x-and-cpu-cores.1989932/
 
-https://browser.geekbench.com/mac-benchmarks
 
 2017-mid MBA 单核 667 多核 1372(2)
 2015-mid MPB 单核 931 多核 3364(4)
@@ -38,23 +37,24 @@ https://browser.geekbench.com/mac-benchmarks
 $1299 vs $1799 2020 MacBook Pro 13" - Full Comparison!
 https://www.youtube.com/watch?v=jK3AOK8uDJo
 
-	$1299	$1799	2017 Macbook Air
-接口	2	4	
-CPU单核	925	1214 (+31.2%)	667
-CPU多核	3928	4358 (+10%)	1372
-GPU	6855	10154(+48%)	
-FCPX	43s	36s(-16% time)(+19% power)	
-Cinebench	1548	1917(+23%)，但之前测试是1708(+10%)	
-			
+||$1299|$1799|2017 Macbook Air|
+|---| --- | --- | --- |
+|接口|2|4||
+|CPU单核|925|1214 (+31.2%)|667|
+|CPU多核|3928|4358 (+10%)|1372|
+|GPU|6855|10154(+48%)| |
+|FCPX|43s|36s(-16% time)(+19% power)| |
+|Cinebench|1548|1917(+23%)，但之前测试是1708(+10%)| |
 
 4K LUT 2020 MacBook Air 10th i5
 GPU使用率从17%升到65%，但CPU使用率几乎没有变化。
 相对的，如果只是1080P，就只是上升了10%
 https://www.youtube.com/watch?v=DuTPerwdr2c
 
-CPU	GPU
-17%	17%
-18%	65%
+|CPU|GPU|
+|---|---|
+|17%|17%|
+|18%|65%|
 
 同样的CPU同样的显卡，2019款的FCPX测试是65s(对比43s)，太tm神奇了
 对把CPU逼到极限频率，双风扇的温度反而更高。=    =
@@ -122,17 +122,17 @@ https://youtu.be/tOY784F7aSQ?t=455
 
 https://www.idownloadblog.com/2016/01/09/how-to-achieve-faster-video-exports-in-final-cut-pro-x/
 
-	CPU	GPU
-Rendering	o	x
-Color correction effect	o	o
-transition	o	o
-3D subtitles	x	o
-Slow motion	50%	x
-reverse	50%	x
-accelerate	50%	x
-effects, (shape mask, spot, etc, nut no color correction)	x	o
-Multi-tracks(no effects)	x	o
-￼
+|   |CPU|GPU|
+|---|---|---|
+|Rendering|o|x
+|Color correction effect|o|o
+|transition|o|o
+|3D subtitles|x|o
+|Slow motion|50%|x
+|reverse|50%|x
+|accelerate|50%|x
+|effects, (shape mask, spot, etc, nut no color correction)|x|o
+|Multi-tracks(no effects)|x|o
 
 1080 * 1920 * 4 * 60 * 3 * 8 / 8 =  1.5GBps * 8 = 12Gbps
 
@@ -183,3 +183,72 @@ https://www.youtube.com/watch?v=u_eDOvrbnOE
 eGPU Comparison with 2020 MacBook Pros - $1299 vs $1799
 https://www.youtube.com/watch?v=UyK5YR89Kcc
 
+
+### 以下型号的macbook可使用通用的m.2 ssd来升级
+
+  2013 version MacBook Pro retina A1398 A1502 (ME864 ME865 ME866 ME293 ME294)
+  2014 version MacBook Pro retina  A1502 A1398 (MGX72 MGX82 MGX92 MGXA2 MGXC2)
+  2015 version MacBook Pro retina A1502 A1398(MF839 MF840 MF841 MJLU2 MJLT2 MJLQ2)
+  2013-2014 version MacBook Air A1465 A1466(MD711 MD712 MD760 MD761)
+  2015 version MacBook Air A1465 A1466(MJVM2 MJVP2 MJVE2 MJVG2 MMGF2 MMGG2)
+  2017 version MacBook Air A1466(MQD32 MQD42 MQD52, 可以看到底壳上有文字Model A1466 EMC3178)以及Mac Pro A1481 ME253 MD878,iMAC A1419(Late 2013 and newer).
+
+  12-15款视网膜屏mbp和16-17款不带bar的机器，都是可以更换硬盘的
+
+型号| 单核 | 价格
+--| ---- | ---
+| air 2015 i5-5250U | 611 | 
+| air 2017 i5-5350U | 664 |
+| pro 2015 i7-4980HQ@2.8GHz | 930 |
+| pro 2013 i7-4960HQ@2.6GHz | 888 | 
+| pro 2015 i7-4870HQ@2.5GHz 4核 | 865 | 4300(无显卡)
+| pro 2015 i7-5557U@3.1GHz 2核 | 796 | 3500(带1t硬盘+1000)
+| pro 2015 i7-4770HQ@2.2GHz 4核 | 794 | 4600(屏幕大裂痕)
+| pro 2015 i5-5257U@2.7GHz 2核 | 722 | 3499, 2800
+
+
+best macbook for last decade: 2015 mid 15-inch macbook pro, featured:
+- sd card slot
+- upgradable ssd
+- retina display
+- quad-core i7
+- $1000
+
+worst 5 macbooks 
+#5 2017 'function keys' macbook pro
+#4 2018 'core i9' macbook pro "bad thermal design"
+#3 2016 'touch bar'  macbook pro "bad thermal, bad keyboard, unable to change ssd"
+#2 2015 12" Retina Macbook "bad keyboard"
+#1 2011 15" Macbook Pro "fundunmental failure graphic card"
+
+best 5 macbooks
+#5 2015 13" Macbook pro
+#4 2012-mid 13" "unibody" Macbook Pro "full customizable"
+#3 2012-mid 15" "unibody" Macbook Pro "full customizable"
+#2 2019 16" Macbook Pro "old-good keyboard, good thermal, but not upgradable"
+#5 2015 15" Macbook pro
+
+
+### 收货确认
+1. 系统报告
+2. 雷电接口
+3. USB接口
+4. SD接口
+5. SSD是否原装
+6. 拆主板是否有进水
+8. 序列号是否和标称型号一致
+7. 系统序列号是否和机身上的一致
+
+
+
+[1]: https://www.youtube.com/watch?v=EAmoYEYUxlAa "Best and worst MacBooks of the decade!"
+[2]: https://everymac.com/systems/apple/macbook_pro/index-macbookpro.html
+[3]: https://stepintechnology.wordpress.com/apple-macbook-pro-15-mjlq2-specifications/
+[4]: https://stepintechnology.wordpress.com/apple-macbook-pro-15-mjlt2-specifications/
+[5]: https://zhuanlan.zhihu.com/p/60719940 "鉴别macbook"
+[6]: https://zhuanlan.zhihu.com/p/63134840
+[7]: https://support.apple.com/zh-cn/HT201300 "识别 MacBook Pro 机型"
+[7]: https://support.apple.com/zh-cn/HT201862 "识别 MacBook Air 机型"
+[8]: https://zhuanlan.zhihu.com/p/107558527 "型号标识符识别法"
+[9]: https://browser.geekbench.com/mac-benchmarks
+[10]: https://checkcoverage.apple.com/cn/zh

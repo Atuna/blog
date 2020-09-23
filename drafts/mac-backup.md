@@ -15,6 +15,10 @@ If you need better compatibility, find ssd with SM or Phison Controller. Samsung
 
 凉凉 pcie 2.0的 x2 5GT/s…… 转接卡有推荐的淘宝店家么 大部分看着做工有点狠啊 谢啦
 诺方恒科
+转接头淘宝搜Apple m.2 ssd 转接头 销量好的买就行
+
+您好，我是2015early13寸的Pro，可以换您说的970evo256g或者1t的硬盘吗？
+换760p 别换970用不上
 
 [1]: https://appuals.com/how-to-read-a-mac-drive-hfs-and-apfs-on-pc/
 [2]: https://www.zhihu.com/question/38166663
@@ -22,5 +26,4 @@ If you need better compatibility, find ssd with SM or Phison Controller. Samsung
 [4]: https://item.taobao.com/item.htm?id=562388724120
 [5]: https://www.youtube.com/watch?v=EW60S5WrswY
 [6]: https://www.zhihu.com/question/21100176/answer/659396347
-[7]: https://www.zhihu.com/question/21100176/answer/659396347
 [8]: https://www.zhihu.com/question/19926569/answer/547791508
