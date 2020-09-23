@@ -28,3 +28,6 @@ If you need better compatibility, find ssd with SM or Phison Controller. Samsung
 [6]: https://www.zhihu.com/question/21100176/answer/659396347 "MacBook Pro 如何更换 SSD 硬盘？"
 [8]: https://www.zhihu.com/question/19926569/answer/547791508
 [9]: https://zh.ifixit.com/Guide/MacBook+Air+13-Inch+Early+2015+SSD+Upgrade+to+NVMe/119755
+[10]: https://mac-optimization.bestreviews.net/the-different-partition-format-types-on-mac/
+[11]: https://support.apple.com/zh-tw/HT201255
+[12]: https://support.apple.com/zh-tw/HT201372
