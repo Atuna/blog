@@ -21,6 +21,7 @@ If you need better compatibility, find ssd with SM or Phison Controller. Samsung
 [3]: https://apple.stackexchange.com/questions/200907/how-to-mount-pcie-ssd-from-macbook-air-in-another-computer
 [4]: https://item.taobao.com/item.htm?id=562388724120
 [5]: https://www.youtube.com/watch?v=EW60S5WrswY
-[6]: https://www.zhihu.com/question/21100176/answer/659396347
+[6]: https://www.zhihu.com/question/21100176/answer/659396347 "MacBook Pro 如何更换 SSD 硬盘？"
 [7]: https://www.zhihu.com/question/21100176/answer/659396347
 [8]: https://www.zhihu.com/question/19926569/answer/547791508
+[9]: https://zh.ifixit.com/Guide/MacBook+Air+13-Inch+Early+2015+SSD+Upgrade+to+NVMe/119755
