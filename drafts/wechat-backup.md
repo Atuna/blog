@@ -5,6 +5,8 @@
 
 ls -alh ~/Library/Containers/com.tencent.xinWeChat/Data/Library/Application\ Support/com.tencent.xinWeChat/*/*/Message/*.db
 
+~/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/
+
 土办法导出 Mac 版微信聊天记录[3]
 0x600000ea6d00: 0xd1 0x84 0x3e 0x1d 0xc2 0xd2 0x46 0xaa
 0x600000ea6d08: 0x9a 0xfe 0x6c 0xfb 0x27 0x7c 0x17 0xa1

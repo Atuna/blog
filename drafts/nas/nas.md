@@ -98,6 +98,12 @@ https://bbs.ui.com.cn/t/ip/49132 "有公网ip，端口映射后外网无法访�
 https://bbs.ui.com.cn/t/edgerouter-dnat/41657 "DNAT"
 https://www.zhihu.com/question/278726503
 
+## 内存管理
+我刚刚咨询了一下技术主管
+当我们只有一块SSD做系统盘的话，交换分区是不会占用这块SSD的空间的
+
+[17]
+
 [1]: https://www.zhihu.com/question/21359049/answer/34375825
 [2]: https://s.taobao.com/search?q=J3455
 [3]: https://www.bilibili.com/video/BV18W411f7u9?t=5m49s
@@ -116,3 +122,4 @@ https://www.zhihu.com/question/278726503
 [14]: https://www.tinymediamanager.org/
 [15]: https://post.smzdm.com/p/a4wmwkrl/ "利用tinyMediaManager刮削影片，解决plex电影墙的问题"
 [16]: https://www.bilibili.com/video/av94293208/
+[17]: https://forum.qnap.com/viewtopic.php?t=149957
