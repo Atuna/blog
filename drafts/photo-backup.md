@@ -56,6 +56,7 @@ digikam[15]:
 支持removable image library
 支持database的导出，但因为性能原因，不支持nfs。最好放ssd上
 实验性的mysql实现，支持nfs，和100000+图片更好的性能表现[16]
+人脸识别不好用
 
 
 ### 方案
