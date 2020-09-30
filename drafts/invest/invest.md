@@ -5,6 +5,7 @@
 
 
 [三十本投資經典][2]
+https://read.douban.com/reader/ebook/110808848/
 
 ![](https://i0.wp.com/lonecapital.com/wp-content/uploads/2017/09/%E4%B9%A6%E5%8D%95.png?resize=429%2C671&ssl=1)
 
@@ -47,3 +48,20 @@ Buy the Dip > Buy the Breakthrough > 套牢 >（逼迫绝望情绪）止损 > �
 
 2B是趋势起点，是盈亏比极高的位置，难度很大，成功率不高，但值得去做
 2B结构是交易高手的必修课
+
+### 零佣金券商
+![](./YouTube-7OdsV03Zttg-5'8.629''.jpg)
+![](./YouTube-xn76MSyzUBE-7'49.511''.jpg)
+
+![](./YouTube-fkhTt5X4_kQ-8'14.758''.jpg)
+股息税并不是100%可以退
+一旦退税档案就会进入IRS，之后都要如实报税
+
+
+有额外的出金费用35$
+
+[1]: http://hk.cmbc.com.cn/home/notice/2020/08/1201757293771903.htm
+[2]: https://www.firstrade.com/content/zh-cn/pricing/ "FIRSTRADE收费"
+[3]: https://invest.firstrade.com/cgi-bin/main#/content/customerservice/pricing/
+[4]: https://www.firstrade.com/content/zh-cn/promos/freeacat
+[5]: https://coderschool.cn/3337.html "香港支付宝支持转数快充值"
