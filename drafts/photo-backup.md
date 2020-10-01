@@ -56,6 +56,7 @@ digikam[15]:
 支持removable image library
 支持database的导出，但因为性能原因，不支持nfs。最好放ssd上
 实验性的mysql实现，支持nfs，和100000+图片更好的性能表现[16]
+人脸识别不好用
 
 
 ### 方案
@@ -67,38 +68,45 @@ digikam[15]:
 
 ### 工作流
 在NAS端进行照片分类，标签，整理，因为那才是带得走，和随时编辑的数据
-加入定时任务，百度云全量备份，RAW文件排除后再备份到Google Photo
-digikam整理图片，并将sqlite数据库同步到NAS
+加入定时任务，百度云全量备份，RAW文件排除后再备份到Google Photo，[详情](#user-content-备份到百度云)
+digikam整理图片，并将sqlite数据库定期同步到NAS
 digikam图库同步到百度云,
 digikam里标签为icloud的图片，同步到icloud(不确定标签会不会同步)
 利用云的人工智能进行检索定位，通过拍摄时间定位照片
+定期对没打标签的根目录图片（一般是手机来的）打上标签
 #### 手机拍照
 截图定期删除
-网上下载的图片定期归档到NAS
-拍好的相片，利用碎片时间整理一下，每个月或每周导入mac photo
+图片定期归档到NAS的图片根目录
 文档类的可以OCR的，就转成文档的形式存储在Qsync或iCloud Drive
 
 ~~iPhone的图片定期整理归档到mac photos，归档前需要清理下截图什么的~~
 ~~mac photos不连接iCloud，不然iCloud会存在很多照片。photos library放在NAS上，用作备份。~~
 digkam可以mac windows双平台，所以不需要mac photos
 
-iPhone定期整理归档到NAS，进行简单的分类：
+iPhone定期整理归档到NAS，进行简单的分类，打标签：
 - web放网图
 - document放一些记录型的文件（后期看能不能转录成文字后存储）
 - Qsync放一些需要同步的文件类照片(身份证之类的)
 
 iPhone，iPad开启iCloud同步，iCloud只存放精选的照片。
 
-
 #### 相机拍照
+放入文件夹文件夹全名：日期-活动-客户(可选)
 对于没有定位信息的图片，可以通过相同时间的有定位的手机图片，来添加定位。
+加入评级，给精选的照片
 在本地SSD上处理照片，后期过的照片存在原地同名保存，加入edited标签
 精选的照片加入iCloud标签，导入iCloud
 处理完成后转移到NAS归档
 
-虽然云存储(icloud, google photos)大多不支持通过IPTC的关键字检索，但通时间和地点，基本满足浏览的需求了
+虽然云存储(icloud, google photos)大多不支持通过IPTC的关键字检索，
+但通时间和地点，基本满足浏览的需求了
 就是一些在常住地方的活动，有必要加入关键字，比如说装修，婚礼
-TODO，等待一会再看看，说不定是还没建立索引
+
+
+### 备份到百度云
+[19]: https://support.google.com/photos/answer/9316089 "Photos & Drive不再同步"
+[20]: https://nascompares.com/answer/google-photos-sync-with-qnap-nas/ "利用"
+
 
 
 [1]: https://web.everphoto.cn/
@@ -116,3 +124,5 @@ TODO，等待一会再看看，说不定是还没建立索引
 [14]: https://www.youtube.com/watch?v=h-a739LKnro
 [15]: https://invent.kde.org/graphics/digikam
 [16]: https://docs.kde.org/trunk5/en/extragear-graphics/digikam/using-setup.html#using-setup-database
+[17]: https://www.youtube.com/watch?v=Lr826lxVfWk "完整的拍摄，整理，后期工作流示例"
+[18]: https://stackoverflow.com/questions/9542359/does-png-contain-exif-data-like-jpg
