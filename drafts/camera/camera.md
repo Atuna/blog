@@ -170,7 +170,8 @@ XT3
 
 
 ### √ XT4 ￥11550 + 1855/2.8-4 ￥14390
-翻转屏
+√ 420 10bit 内录
+√ 翻转屏
 √ 机身防抖
 √ 独立的视频照片切换按钮
 更大的电池
@@ -185,8 +186,8 @@ weather proof
 
 ### √ XT30 ￥6000 + 1855/2.8-4 ￥8790
 √ 更好的直出色彩，内录规格和6400一样，
-√ 外录10bit 422，
-√ 更好1080P超采样
+√ 外录10bit 422，内录都不支持10bit
+√ 1080P超采样
 可以设置对焦切换速度
 视频数字防抖
 支持PD直充[26](索尼需要用电池转接头)
@@ -215,6 +216,15 @@ weather proof
 在家拍摄，需要看见自己
 
 富士在国外经常打折[25]
+
+iphone 11 pro vs a6400
+https://www.youtube.com/watch?v=bTU4Wd74HNg
+手机和相机的差距体现在：
+景深
+扩展性：可换镜头，ND滤镜
+后期能力
+低光能力
+
 
 
 
@@ -249,3 +259,6 @@ weather proof
 [25]: https://www.camerapro.com.au/
 [26]: https://www.theverge.com/2019/4/12/18306026/fujifilm-xt30-camera-review-fuji-xt3-mirrorless
 [27]: https://www.youtube.com/watch?v=QJsEww2j7Ro
+
+[28]: https://www.zhihu.com/question/322214585/answer/799429713 "富士xt30跟索尼6400哪个更值得入手？"
+[29]: http://fujifilm-dsc.com/en/manual/x-t30/technical_notes/spec/index.html "XT30 参数"

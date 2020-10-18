@@ -60,8 +60,35 @@ Buy the Dip > Buy the Breakthrough > 套牢 >（逼迫绝望情绪）止损 > �
 
 有额外的出金费用35$
 
+### 量化投资的边际效应递减
+如果整个股市都用量化投资，量化投资是不是就没用了？[6]
+量化交易不是银弹[7]
+量化基金年收益率
+
+什么是alpha[8]
+
+A股到底能不能做股票量化投资？ - 徐杨的文章 - 知乎
+https://zhuanlan.zhihu.com/p/52029649
+
+https://www.zhihu.com/search?q=A%E8%82%A1%20%E9%87%8F%E5%8C%96&type=content
+
+用“机器学习”做“股票预测”能做到什么程度？ - 知乎
+https://www.zhihu.com/question/20147343/answer/265593500
+
+### 机器学习是否可能应用于市场
+有可能，但你用什么数据去训练？
+
+
+### TODO 通过企业当前收益进行估值的方法
+
+
 [1]: http://hk.cmbc.com.cn/home/notice/2020/08/1201757293771903.htm
 [2]: https://www.firstrade.com/content/zh-cn/pricing/ "FIRSTRADE收费"
 [3]: https://invest.firstrade.com/cgi-bin/main#/content/customerservice/pricing/
+[3.1]: firstrade.com/content/en-us/customerservice/faqs "FIRSTRADE FAQ"
 [4]: https://www.firstrade.com/content/zh-cn/promos/freeacat
 [5]: https://coderschool.cn/3337.html "香港支付宝支持转数快充值"
+[6]: https://www.zhihu.com/question/373173440/answer/1030287067
+[7]: https://zhuanlan.zhihu.com/p/25719525 "给正在从事量化交易、准备从量化交易的人一些忠告 - 大圣股评的文章 - 知乎"
+
+[8]: https://www.investopedia.com/terms/a/alpha.asp
