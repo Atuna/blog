@@ -81,8 +81,29 @@ FE 24-70F2.8
 
 原生镜头的防抖和对焦总是更好一点
 
+
+https://www.fujifilm.com.cn/products/digital_cameras/x/index.html#zoomlens
+fuji 56F1.2 ￥6800
+fuji 16-55F2.8 ￥7700
+fuji 50-140F2.8 ￥9750
+
+https://www.sonystyle.com.cn/products/lenses/index.html
+sony 50F1.8 ￥1600
+sony 16F2.8 ￥1800
+sony 16-55F2.8 Gg ￥8200
+sony 70-350mm F4.5-6.3 G ￥5600
+
+
+
+
+
+
+fuji 56F1.2 牛逼！
+
 [1]: https://www.zhihu.com/question/21079890 "如何理解APS-C画幅与全画幅等效焦距的透视效果？（以人像为例）"
 [2]: https://zhuanlan.zhihu.com/p/32486184 "不同焦段镜头的透视和畸变是什么样的？什么是镜头的畸变？什么是镜头的透视？ - ChanChiang的文章 - 知乎"
 [3]: https://www.zhihu.com/question/40095076/answer/84805427 "同焦距APS-C画幅镜头所产生的“畸变” 与全幅镜头“畸变”一样吗？ - 砸场子的回答 - 知乎"
 [4]: https://www.youtube.com/watch?v=Doo4kU7Qr2s
 [5]: https://www.youtube.com/watch?v=H7m9rpp-dYw
+
+[6]: https://www.youtube.com/watch?v=DMhaFJwwu5g "Sony vs Fuji Lenses: Who is sharper?"
