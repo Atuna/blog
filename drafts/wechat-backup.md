@@ -5,7 +5,9 @@
 
 ls -alh ~/Library/Containers/com.tencent.xinWeChat/Data/Library/Application\ Support/com.tencent.xinWeChat/*/*/Message/*.db
 
+将Backup文件夹放入
 ~/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/
+注意，不同时间段同账户与会话的备份文件夹是同名的，所以会相互覆盖，所以还原时一次只能还原一次
 
 土办法导出 Mac 版微信聊天记录[3]
 0x600000ea6d00: 0xd1 0x84 0x3e 0x1d 0xc2 0xd2 0x46 0xaa

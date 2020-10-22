@@ -29,3 +29,6 @@ use max IO buffer when mix for more time to proccess although with some delay
 
 command + k keyboard
 command + 2 mix window
+
+https://www.youtube.com/watch?v=7QQN_UFVpbk
+https://www.youtube.com/watch?v=fQmLpwsHszg
