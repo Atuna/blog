@@ -104,6 +104,21 @@ https://www.zhihu.com/question/278726503
 当我们只有一块SSD做系统盘的话，交换分区是不会占用这块SSD的空间的
 [17]
 
+```
+[~] # cat /proc/swaps
+Filename                                Type            Size    Used    Priority
+/dev/md256                              partition       530108  495228  -1
+/dev/md322                              partition       7235132 598584  -2
+/share/CACHEDEV1_DATA/.swap/qnap_swap   file            16777212        0       -3
+[~] # cd /share/CACHEDEV1_DATA/.swap/
+[/share/CACHEDEV1_DATA/.swap] # ls
+qnap_swap
+[/share/CACHEDEV1_DATA/.swap] # swapon -p 0 ./qnap_swap
+swapon: ./qnap_swap: Device or resource busy
+[/share/CACHEDEV1_DATA/.swap] # swapoff ./qnap_swap
+[/share/CACHEDEV1_DATA/.swap] # swapon -p 0 ./qnap_swap
+```
+
 [1]: https://www.zhihu.com/question/21359049/answer/34375825
 [2]: https://s.taobao.com/search?q=J3455
 [3]: https://www.bilibili.com/video/BV18W411f7u9?t=5m49s
@@ -123,3 +138,4 @@ https://www.zhihu.com/question/278726503
 [15]: https://post.smzdm.com/p/a4wmwkrl/ "利用tinyMediaManager刮削影片，解决plex电影墙的问题"
 [16]: https://www.bilibili.com/video/av94293208/
 [17]: https://forum.qnap.com/viewtopic.php?t=149957
+[18]: https://www.thegeekdiary.com/centos-rhel-how-to-prioritize-the-devices-used-for-swap-partition/

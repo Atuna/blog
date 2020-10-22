@@ -7,3 +7,4 @@ dolphen kick
 
 [1]: https://www.youtube.com/watch?v=wvVZZy-8fv4&t=15m25s
 [2]: https://www.youtube.com/watch?v=vY6GxQqAkuQ
+[3]: https://www.youtube.com/watch?v=uiI6Z_0Q2Io
