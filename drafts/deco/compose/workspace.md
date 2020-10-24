@@ -22,6 +22,8 @@ Windows下编曲建议使用Studio One，并且不要搭配(划重点)Pre Sonus�
 LogicPro
 Pro Tool
 
+[1]: https://www.zhihu.com/question/22591520 "Logic Pro 和 Ableton Live 这两个音频宿主的优缺点分别是什么？"
+
 ### Logic
 
 use min IO buffer when record for less delay
