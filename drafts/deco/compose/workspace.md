@@ -34,3 +34,6 @@ command + 2 mix window
 
 https://www.youtube.com/watch?v=7QQN_UFVpbk
 https://www.youtube.com/watch?v=fQmLpwsHszg
+
+## 插件
+quickq 科学软件

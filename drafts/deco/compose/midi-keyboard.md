@@ -5,7 +5,7 @@ a.  Novation Launchkey MK3 - https://amzn.to/2S7vlTj
 b.  Akai MPK Mini MK2 - https://amzn.to/3aCyzES
 c.  Arturia Minilab MK2 - https://amzn.to/350Jx5U
 
-🎹 49 KEY MIDI KEYBOARDS:
+8🎹 49 KEY MIDI KEYBOARDS:
 nektar IMPACT LX49 ￥1449 $170
 a.  M Audio Oxygen 49 - https://amzn.to/2XbZNP5 ￥1650 $140
 in terms of functionality if **hardware
@@ -737,3 +737,739 @@ see you for another video
 next time
 13:33
 [Music]
+https://www.youtube.com/watch?v=AgL0siM4BLY "How To Choose The BEST MIDI Controller | Everything You Need To Know BEFORE You Buy"
+
+
+## workflow
+novation lauchkey mini mk3, perfect for ableton user, not good for others
+arturia minilab, better key bed, more versatile, comes with good sound lib
+akai mpk mini, best compatiable, knobs, pads, arpeggiator,
+
+
+
+sonic TV hello welcome to another Sonic
+00:04
+lab today we're looking at the new Akai
+00:07
+Max 49 this is a new controller keyboard
+00:10
+from acai that's got something a bit
+00:11
+different about it and what that is is
+00:13
+as well as all the usual suspects pads
+00:16
+and faders and buttons of what have you
+00:18
+it's got CV and gate output so it will
+00:21
+actually drive your analog equipment
+00:23
+let's take a look at the features so
+00:25
+here is the unit it's beautiful and bold
+00:27
+red it's actually a very nicely sort of
+00:29
+lustrous almost sports car shiny finish
+00:32
+we've got the 49 key version here this
+00:35
+keyboard is a sort of fairly solid synth
+00:37
+action feels quite nice actually it's
+00:40
+got a sort of chunky feel to it it's got
+00:42
+aftertouch as well just standard
+00:44
+aftertouch it's quite heavy it's got a
+00:46
+sort of metal base and starting over
+00:48
+here we've got pitch and mod wheels
+00:50
+which was like rubberized then I've got
+00:53
+various different mode switches for the
+00:54
+arpeggiator and the sequencer more on
+00:57
+that later then we have 12 backlit MPC
+01:00
+style pads and these also double up as
+01:03
+mode switches for the secrets are on
+01:04
+page 8 ER these are also pressure
+01:07
+sensitive though they don't send per pad
+01:09
+controller data they either send poly
+01:12
+aftertouch or regular after touch and
+01:14
+there are four banks of these which give
+01:16
+you a total of 48 possible pads then
+01:20
+we've got transport control octave up
+01:22
+and down edit mode buttons little four
+01:25
+row LCD display rotary encoder with a
+01:30
+push and then cursor controls different
+01:33
+modes for sequencer and then banks of
+01:36
+faders these faders are quite
+01:37
+interesting because what they are is
+01:39
+backlit with little LEDs so you can see
+01:43
+the value and you've got four banks of
+01:45
+them so switching between banks you
+01:47
+still know where you are and that's
+01:49
+actually quite a neat little touch
+01:51
+actually then we've got these eight
+01:54
+select buttons here as well which can be
+01:56
+configured in different ways also if you
+01:58
+press this button it becomes the time
+02:00
+division for the sequencer in the
+02:01
+arpeggiator what's also cool is this has
+02:05
+Mackie control and fury built in so we
+02:09
+can switch and use it as effectively a
+02:12
+secret to controller for
+02:13
+banks of faders and what-have-you but
+02:15
+more on that later so looking away in
+02:16
+the back you get to see the lovely red
+02:18
+finishes entirety nice big logo right
+02:21
+there this is the first connections
+02:23
+these are the keyboard CV and gate this
+02:25
+is for driving your analog kit see the
+02:28
+output would typically drive the pitch
+02:29
+of an oscillator so that would be for
+02:31
+the pitch so they key will be mapped to
+02:33
+one volt per octave so your gear will
+02:35
+need to talk one volt per octave so
+02:38
+that's most modern analog equipment some
+02:40
+of the more obscure stuff like they call
+02:42
+em s and some of the Moog things might
+02:44
+not work with it then gate at which you
+02:46
+would typically use to trigger the
+02:47
+envelope so envelope and pitch it would
+02:50
+be nice to perhaps see another couple of
+02:51
+CV so we could maybe Matt one of the
+02:53
+faders or to the faders to another
+02:55
+control or two here but suddenly we
+02:57
+can't instantly we can't access this as
+02:59
+a separate MIDI port so as well as the
+03:02
+MIDI in and the out we've got we could
+03:05
+send that to external gear and then have
+03:07
+this driving some analog gear and
+03:08
+address them separately from your door
+03:10
+or from the keyboard we've also got foot
+03:13
+switch pedals inputs foot switch one and
+03:15
+two sustain an expression as I say MIDI
+03:18
+in and out here then a USB port for
+03:20
+connecting to the computer that will
+03:22
+drive the MIDI over it and also allow
+03:23
+you to hook up the software editor there
+03:26
+is a six volt DC power supply which you
+03:29
+don't need because you can power over
+03:30
+USB and that concludes the tour whereas
+03:35
+I've got this hooked up to my analog
+03:36
+rack what I have here is my dope for a
+03:39
+1-1 five mini synthesizer voice and a
+03:41
+couple of Pittsburgh modular so this is
+03:43
+what I'm going to do is just will listen
+03:44
+to
+03:45
+[Music]
+03:49
+listen to the notes
+03:52
+[Music]
+03:57
+I like the way that it just works and it
+04:00
+sounds like the scaling is really
+04:02
+spot-on
+04:02
+if we need to we can actually affect the
+04:05
+scaling and the intonation there's a
+04:07
+couple of parameters here which allow
+04:08
+you to affect the scaling but there's
+04:10
+also as well as being able to play from
+04:13
+the keyboard and the sequencer and the
+04:16
+arpeggiator we can switch it to be from
+04:19
+the pads as well means we can trigger
+04:23
+some quite interesting things if this
+04:25
+hit note repeat and change the beat
+04:28
+divisions
+04:29
+[Music]
+04:34
+we do some pretty interesting stuff with
+04:36
+that as well as this you can also change
+04:39
+the output to be any of the USB MIDI
+04:41
+Channel ports as well so that means you
+04:43
+can route your sequencer tracks directly
+04:47
+through to the CV as well as other
+04:50
+external MIDI gear that you might have
+04:52
+running out of their MIDI output on this
+04:53
+so let's talk about the MIDI side of it
+04:55
+the midi keyboard is a single channel
+04:58
+only you cannot split
+05:00
+you cannot layer you can change them in
+05:02
+a channel of the keyboard and you can
+05:04
+switch the aftertouch on or off and
+05:06
+change velocity curves coming up to the
+05:08
+front panel the pads each of the parts
+05:11
+can be of note type program change or
+05:14
+Bank change and you can have a different
+05:16
+MIDI channel for each of the 48 pads
+05:19
+coming off to the faders faders can be
+05:22
+various different protocols they can be
+05:24
+MIDI control after touch increment
+05:27
+decrement Mackie control Jiri
+05:30
+and that's basically it but again each
+05:34
+of those can have a separate MIDI
+05:35
+channel so you can mix it up and mash it
+05:37
+up quite nicely so we did mention Mackie
+05:40
+and Huey control and indeed you can set
+05:42
+this up to control your door in various
+05:46
+modes we'll have a quick look at that
+05:47
+now so I'm just working in logic here
+05:49
+I've set up a Mackie control and added
+05:52
+the the control ports our Mackie output
+05:55
+and Mackie input these at ports are
+05:58
+actually available as a specific port on
+06:00
+the Mac's 49 now if I close this down
+06:02
+all the faders are set to the specific
+06:05
+values I'll just go up here you can see
+06:08
+that if I move this fader it's
+06:10
+corresponds etc etc so I press play
+06:14
+do that I can rewind and fast-forward as
+06:17
+I would expect and these different banks
+06:21
+of faders do different things if I open
+06:23
+the mixer window we can obviously see
+06:25
+Bank one is volume and that the cool
+06:29
+thing is is obviously if I change the
+06:30
+value of the fader updates on the actual
+06:34
+unit these buttons are mute buttons in
+06:38
+logic they mute the actual channels
+06:42
+rather than the door tracks which is a
+06:44
+sort of foible of the logic way of doing
+06:46
+things next Bank is pan control and solo
+06:52
+so like solo these and actually if I go
+06:54
+back it shows me the status which is
+06:56
+kind of cool take that out here next one
+07:00
+is record arm and then finally take that
+07:05
+record on and finally we've got track
+07:06
+select you can see that a little bit
+07:08
+better just by the way this works now
+07:11
+obviously with the banking you probably
+07:14
+want to see how that works if I scroll
+07:15
+down to my next bank of faders you can
+07:19
+see that the next day I have different
+07:21
+volumes different volume settings now I
+07:24
+have set up another program because it
+07:26
+is possible to edit the function of
+07:28
+these buttons and what I did is I set
+07:29
+these two buttons to be up-and-down
+07:31
+track because I can go in and edit them
+07:33
+and I can have they can have maki values
+07:36
+they can be up/down fast forward rewind
+07:38
+so i can modify it to a certain degree
+07:40
+but the Maki and the QE functionality is
+07:43
+limited purely to these buttons here
+07:45
+there's no accessing any of the other
+07:47
+ones and that obviously the transport
+07:48
+have been great if we could have had the
+07:50
+pads to be working as Maki control for
+07:52
+things like you know opening and closing
+07:53
+windows saving you know markers all the
+07:55
+other functions that we've got there but
+07:57
+we're just limited to the transport
+07:59
+control the 8 faders and the 8 buttons
+08:01
+so as well as these control modes
+08:03
+there's something called Akai Connect
+08:05
+which essentially is very similar in
+08:07
+concept to the Novation automap and what
+08:10
+it does is allows you to wrap certain
+08:13
+plugins or all of your VST plugins in
+08:16
+these kind of Akai Connect software I'll
+08:19
+show you what that does so Akai Connect
+08:21
+is running here so like a little server
+08:23
+it has to be running all the time this
+08:24
+is the list of the plugins that I've
+08:25
+chosen to wrap I've got
+08:27
+audio damage combat and a couple of the
+08:30
+Focusrite compressors and eq's and the
+08:33
+scarlet stuff now unfortunately it is
+08:36
+only VST so I'm going to have to quit
+08:39
+logic because that only runs Audio Units
+08:40
+and Load something which has VST and
+08:43
+I've got Reaper so let's do that now so
+08:46
+I'm set up in Reaper here I've got my
+08:49
+run factors to stand a drug that I'm
+08:51
+going to add some compression to it so
+08:53
+go to my effects I'm looking for one of
+08:56
+the a/c wrapped this is my scarlet
+08:58
+compressor I'm gonna add that it's got
+09:00
+AC in brackets which means it has been
+09:03
+wrapped for auto-connect
+09:04
+here we go now I come to my keyboard and
+09:08
+I've got to go in to connect mode which
+09:11
+is program 33 so now you see when I move
+09:16
+I've got the bypass I've got the input
+09:19
+gain let's try one of the big an old
+09:20
+threshold ratio that's all fine but I'd
+09:23
+actually like to remap that so I can go
+09:25
+to my server I can select the editor
+09:28
+here and I can remap these controls so
+09:33
+I'm gonna have that button to be enable
+09:35
+I'm gonna have this fader to be input
+09:37
+gain say threshold it gives me the list
+09:40
+of all of the ratio and output gain and
+09:44
+I can save that map now if I come back
+09:48
+to my sequencer and give you a keyboard
+09:52
+view I now have this button is bypass
+09:58
+threshold ratio but if I want to then go
+10:02
+back into play I've gotta go back to my
+10:04
+Mackie control mode get it playing then
+10:08
+go back to the number 33 and yeah it's
+10:15
+sort of there we go Lucy is a bit clunky
+10:18
+it's not kind of the perfect connection
+10:20
+you can't auto sense that the the
+10:23
+plugins are live and it will just
+10:25
+automatically do it so it's not the most
+10:27
+elegant and I did find that I was having
+10:29
+some problems when I was switching
+10:31
+between plugins it was a little bit for
+10:33
+next to you it doesn't feel like it's
+10:34
+quite as highly developed as say the the
+10:38
+Novation system but you know it's there
+10:40
+and it's available so it's a couple more
+10:43
+features we should look at we've got the
+10:44
+arpeggiator and the sequencer so we're
+10:46
+just going to arpeggiator mode switch
+10:49
+the arpeggiator on and then press a note
+10:53
+where I press and hold the arc mode I
+10:55
+can flip between all the different modes
+10:57
+I got up/down inclusive exclusive octave
+11:01
+range across the top up to three octaves
+11:03
+random note double cord mode which isn't
+11:07
+going to work on a money so mono synth
+11:08
+and all of those kind of things that are
+11:10
+very easy to switch if I switch it into
+11:13
+latch mode
+11:15
+I get a few more octaves going
+11:18
+then I can go our beat divisions by
+11:20
+pressing this button for a note quarter
+11:23
+notes triplets
+11:24
+eights up to sixteen thirty-two triplets
+11:28
+I've got across the master tempo going
+11:31
+into pattern mode and hitting edit means
+11:34
+that we've got a pattern mode of
+11:37
+arpeggiator so we can change the number
+11:39
+of beats that that pattern has up to
+11:42
+sixteen and we can also switch them on
+11:46
+switch them on or off it's a bit fiddly
+11:49
+but it means you can get sort of
+11:50
+rhythmic effects as well additionally
+11:52
+we've got a sequencer mode which gives
+11:55
+us access to up to four patterns per
+11:58
+patch of up to thirty-two notes in
+12:00
+length so we just go into sequence
+12:03
+select mode if I press and hold I can
+12:05
+choose from any one of four sequence
+12:07
+patterns these are stored in each of the
+12:10
+internal memories so you can have a
+12:12
+number of them they chained now each of
+12:13
+these can be up to 32 steps in length so
+12:18
+if we go back in we'll select
+12:23
+fine without secrets note mode
+12:26
+I just edit dots
+12:31
+eight steps I can change the number of
+12:33
+steps if we look to bring and Diane it
+12:34
+switches to more often grid and this
+12:37
+represents I switch the steps each of
+12:42
+the steps on or off
+12:47
+and I've also got controller mode
+12:50
+summative controller which I've said to
+12:51
+me whatever CC member I want and then
+12:54
+just kind of have that go alongside it's
+12:56
+also possible to have key shift on for
+12:59
+the sequencer so I can press them I can
+13:02
+play it then when I
+13:03
+[Music]
+13:07
+it transposes although I'm hearing
+13:12
+glitch in the beginning which I couldn't
+13:14
+seem to get rid of so you can use the
+13:16
+secrets of sort of like an arpeggiator
+13:18
+or as a sort of for patent sequence or
+13:21
+if you're triggering other kit but it is
+13:23
+monophonic and it's good for using with
+13:26
+the analog kit actually so the max 49
+13:28
+certainly is packed full of features and
+13:31
+it's a nicely built nice looking thing I
+13:34
+like the fact that pads what I really
+13:36
+like the touch faders I think it's a
+13:38
+great idea of something that works
+13:40
+really nicely the banking works
+13:42
+exceptionally well this is something you
+13:43
+couldn't do with traditional hardware
+13:46
+faders unless they were moving fringes
+13:47
+which of course would make the price
+13:49
+prohibitive speaking of the price we're
+13:52
+talking about 309 UK pounds other
+13:54
+currencies will scroll below so it's
+13:56
+quite an expensive unit but it does do
+13:58
+quite a lot
+13:59
+I think perhaps that part of what it
+14:01
+does is not quite as well-developed as
+14:04
+some of the competition I'm thinking
+14:05
+really the kind of plug-in integration
+14:08
+just doesn't feel quite as solid as I'd
+14:12
+like it to and the Huey and Mackie
+14:14
+emulation is great it would have been
+14:16
+really nice like I say to have more
+14:18
+controls available to do that with and
+14:20
+using the pads would be great but that's
+14:22
+something that could be addressed in a
+14:23
+future software upgrade in fact that's
+14:25
+entirely possible
+14:25
+and also we've got analog control which
+14:28
+is a great feature really in a pre
+14:30
+keyboard that's normally with just a
+14:32
+destined for MIDI although like I said
+14:34
+before it would be great to have a
+14:36
+couple of extra channels for CV with all
+14:37
+this control we've got something that's
+14:39
+just dying to be controlled but we can
+14:41
+only do gate and CV so never mind on the
+14:45
+whole though I think what we've got is
+14:47
+MPC pads quite a nice feeling synth
+14:50
+keyboard the the Huey and the Mackie
+14:52
+control it's a nice package if a little
+14:55
+bit expensive
+
+
+
+[2]: https://www.youtube.com/watch?v=7A9hFQQbwwQ "Akai MAX49 Midi/Mackie CV/GATE Controller Review"
+https://www.akaipro.com/max49
