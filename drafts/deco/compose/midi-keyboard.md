@@ -1473,3 +1473,5 @@ bit expensive
 
 [2]: https://www.youtube.com/watch?v=7A9hFQQbwwQ "Akai MAX49 Midi/Mackie CV/GATE Controller Review"
 https://www.akaipro.com/max49
+
+https://versus.com/en/akai-professional-max-49-vs-akai-professional-mpk-49#group_ports

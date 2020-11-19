@@ -2,6 +2,11 @@ omm电脑：良好的散热，16G的内存(在不加载管弦大编制时完全�
  Ps：一定注意散热，风扇过快会导致录音增加底噪
 ；不建议选择纯机械硬盘，尽量选择有雷电3接口的电脑
 
+
+### 空间布置，设备等等
+https://www.youtube.com/watch?v=TRkwIVEZuro
+https://www.reddit.com/r/WeAreTheMusicMakers/comments/8vwzih/what_49_midi_keyboard_and_padsknobs_controller_to/
+
 ### 编曲环境
 性价比最高/稳定的 Mac Mini
 
@@ -17,12 +22,14 @@ UA Arrow(淘宝售价4100)一步到位
 Windows下编曲建议使用Studio One，并且不要搭配(划重点)Pre Sonus的声卡，注意声卡的**二手市场**
 
 
+
 ### DAW Digtial Audio Workstation
 
 LogicPro
 Pro Tool
 
 [1]: https://www.zhihu.com/question/22591520 "Logic Pro 和 Ableton Live 这两个音频宿主的优缺点分别是什么？"
+[2]: https://equipboard.com/ "Musicians and their gear."
 
 ### Logic
 
