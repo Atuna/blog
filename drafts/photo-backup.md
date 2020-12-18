@@ -79,9 +79,10 @@ digikam里标签为icloud的图片，同步到icloud(不确定标签会不会同
 图片定期归档到NAS的图片根目录
 文档类的可以OCR的，就转成文档的形式存储在Qsync或iCloud Drive
 
-~~iPhone的图片定期整理归档到mac photos，归档前需要清理下截图什么的~~
-~~mac photos不连接iCloud，不然iCloud会存在很多照片。photos library放在NAS上，用作备份。~~
+iPhone连接iCloud，一旦快超过5G，就将一年前的的照片归档到mac photos。
+mac photos不连接iCloud，不然iCloud会存在很多照片。photos library放在NAS上，用作备份。
 digkam可以mac windows双平台，所以不需要mac photos
+
 
 iPhone定期整理归档到NAS，进行简单的分类，打标签：
 - web放网图
@@ -102,10 +103,15 @@ iPhone，iPad开启iCloud同步，iCloud只存放精选的照片。
 但通时间和地点，基本满足浏览的需求了
 就是一些在常住地方的活动，有必要加入关键字，比如说装修，婚礼
 
-
 ### 备份到百度云
 [19]: https://support.google.com/photos/answer/9316089 "Photos & Drive不再同步"
 [20]: https://nascompares.com/answer/google-photos-sync-with-qnap-nas/ "利用"
+
+
+### Lightroom on NAS
+iscsi可以让lightroom catelog文件存储在NAS上：https://www.youtube.com/watch?v=JaCKA1YaOoM
+但把catelog文件放在本地可以极大的加快文件处理的进程，所以配合qSync或许是个不错的选择
+
 
 
 
