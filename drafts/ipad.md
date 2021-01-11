@@ -16,3 +16,5 @@ extra camera
 4550 vs 5438
 
 3688 vs 4500+
+
+https://zh.ifixit.com/Guide/11英寸+iPad+Pro+拆解/115457
