@@ -119,6 +119,9 @@ swapon: ./qnap_swap: Device or resource busy
 [/share/CACHEDEV1_DATA/.swap] # swapon -p 0 ./qnap_swap
 ```
 
+## CAYIN MediaSign Player - Plus version license
+5fd037afb35010242ef69a5a
+
 [1]: https://www.zhihu.com/question/21359049/answer/34375825
 [2]: https://s.taobao.com/search?q=J3455
 [3]: https://www.bilibili.com/video/BV18W411f7u9?t=5m49s
