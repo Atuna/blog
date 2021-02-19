@@ -1,3 +1,5 @@
+### 书
+https://lonecapital.com/membership/877/
 | 书名 | 大小 |
 |-----|-----|
 | [安全边际] Seth.larman | 1,149 KB |
@@ -29,3 +31,30 @@
 | [战胜华尔街] Peter.lynch | 38,475 KB |
 | [证券分析(第6版上) ] Benjamin.Graham | 34,601 KB |
 | [证券分析(第6版下) ] Benjamin.Graham | 31,234 KB |
+
+### 信息源
+从特殊事件中获利
+Wall Street journal > http://ereader.wsj.net/
+New York Times
+Barron’s
+Investor’s Business Daily
+American Banker
+Footwear News
+Forbes
+Smart Money
+Business Week
+Fortune Financial World
+Worth (价值线)
+Money
+Kplinger’s Personal Finance
+Individual Investor
+
+### 数据源
+国外：
+Bloomberg
+Dealogic（Ranking功能）
+
+国内：万和wind
+
+从事经济、金融工作的人都是通过什么渠道获得数据资源，运用什么软件来分析行业状态和经济走势的？
+https://www.zhihu.com/question/20489216/answer/91377879

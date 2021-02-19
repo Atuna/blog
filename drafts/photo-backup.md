@@ -108,9 +108,16 @@ iPhone，iPad开启iCloud同步，iCloud只存放精选的照片。
 精选的照片加入iCloud标签，导入iCloud
 处理完成后转移到NAS归档
 
+通过lightroom管理，将目录文件同步备份到NAS
+将精选的照片编辑导出到NAS
+将编辑，导出完毕的源照片（一年前，或半年）转移NAS
+
+
 虽然云存储(icloud, google photos)大多不支持通过IPTC的关键字检索，
 但通时间和地点，基本满足浏览的需求了
 就是一些在常住地方的活动，有必要加入关键字，比如说装修，婚礼
+
+
 
 ### 备份到百度云
 [19]: https://support.google.com/photos/answer/9316089 "Photos & Drive不再同步"
