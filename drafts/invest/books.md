@@ -31,6 +31,7 @@ https://lonecapital.com/membership/877/
 | [战胜华尔街] Peter.lynch | 38,475 KB |
 | [证券分析(第6版上) ] Benjamin.Graham | 34,601 KB |
 | [证券分析(第6版下) ] Benjamin.Graham | 31,234 KB |
+| [专业投机原理（珍藏版）] Victor.Sperandeo | 45,206 KB |
 
 ### 信息源
 从特殊事件中获利
