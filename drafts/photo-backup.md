@@ -82,9 +82,10 @@ digikam里标签为icloud的图片，同步到icloud(不确定标签会不会同
 问题是QuMagie的元数据文件是如何存储，又如何备份呢？
 https://forum.qnap.com/viewtopic.php?t=145022 “Location of media library database on v4.3.5? How to access?”
 
-~~iPhone的图片定期整理归档到mac photos，归档前需要清理下截图什么的~~
-~~mac photos不连接iCloud，不然iCloud会存在很多照片。photos library放在NAS上，用作备份。~~
+iPhone连接iCloud，一旦快超过5G，就将一年前的的照片归档到mac photos。
+mac photos不连接iCloud，不然iCloud会存在很多照片。photos library放在NAS上，用作备份。
 digkam可以mac windows双平台，所以不需要mac photos
+
 
 iPhone定期整理归档到NAS，进行简单的分类，打标签：
 - web放网图
@@ -92,6 +93,15 @@ iPhone定期整理归档到NAS，进行简单的分类，打标签：
 - Qsync放一些需要同步的文件类照片(身份证之类的)
 
 iPhone，iPad开启iCloud同步，iCloud只存放精选的照片。
+
+在重新生成缩略图后，关键字信息似乎没有消失，目前的猜测是，在建立索引的时候，自动识别图片内嵌的关键字。
+但这解释不了，似乎有很多在digiKam里都有关键字，为何没被识别
+经过测试后，新上传的带标签的图片会被识别出关键字
+同时，在加入关键字时，会自动内嵌到图片里。这是一个双向的过程
+经过测试，证实了这种猜测，在QuMagie里加入关键字，下载下来后IPTC里也带入了
+
+如果在上传之后修改tag，这个过程会生效吗？我的预测是不会。
+但结合目前已知的条件，至少可以确定，在QuMagie里的分类是可迁移的。
 
 #### 相机拍照
 放入文件夹文件夹全名：日期-活动-客户(可选)
@@ -101,14 +111,26 @@ iPhone，iPad开启iCloud同步，iCloud只存放精选的照片。
 精选的照片加入iCloud标签，导入iCloud
 处理完成后转移到NAS归档
 
+通过lightroom管理，将目录文件同步备份到NAS
+将精选的照片编辑导出到NAS
+将编辑，导出完毕的源照片（一年前，或半年）转移NAS
+
+
 虽然云存储(icloud, google photos)大多不支持通过IPTC的关键字检索，
 但通时间和地点，基本满足浏览的需求了
 就是一些在常住地方的活动，有必要加入关键字，比如说装修，婚礼
 
 
+
 ### 备份到百度云
 [19]: https://support.google.com/photos/answer/9316089 "Photos & Drive不再同步"
 [20]: https://nascompares.com/answer/google-photos-sync-with-qnap-nas/ "利用"
+
+
+### Lightroom on NAS
+iscsi可以让lightroom catelog文件存储在NAS上：https://www.youtube.com/watch?v=JaCKA1YaOoM
+但把catelog文件放在本地可以极大的加快文件处理的进程，所以配合qSync或许是个不错的选择
+
 
 
 

@@ -160,6 +160,8 @@ chmod +x /tmp/config/autorun.sh
 umount /tmp/config
 ```
 
+## CAYIN MediaSign Player - Plus version license
+5fd037afb35010242ef69a5a
 
 [1]: https://www.zhihu.com/question/21359049/answer/34375825
 [2]: https://s.taobao.com/search?q=J3455

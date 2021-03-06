@@ -45,3 +45,8 @@ RawDigger可以确认通过直方图确认RAW的真正位深
 
 但宽容度不如用iPhone HDR出来的相片
 所以Apple ProRaw还是有实际意义的，因为它可以结合Apple Computed Photography和Raw
+
+### Video Log
+https://www.theverge.com/21524288/apple-iphone-12-pro-review
+
+> But the iPhone 12 shoots video in a newer version of Dolby Vision called Profile 8.4 that’s built on a standard called HLG, or hybrid log-gamma. HLG works differently than PQ systems; it was developed by broadcasters like the BBC and NHK to be backwards compatible with SDR displays so they would only have to broadcast one video stream.

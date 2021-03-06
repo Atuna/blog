@@ -38,6 +38,11 @@ Zigbee 终端设备 -> Zigbee网关 -> tcp/udp -> 自己写的驱动程序 -> �
 消息队列一般用**MQTT**，这个已经成物联网事实标准了。
 
 
+## Aqara
+
+只要在米家App里出现的产品都是可以实现联动的，但是依赖的网关必须连接互联网
+
+
 [1]: https://github.com/pkozul/ha-floorplan
 [2]: https://demo.home-assistant.io/#/lovelace/0
 [3]: https://www.google.com/search?q=site:v2ex.com/t%20home+assistant
