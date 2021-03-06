@@ -78,6 +78,9 @@ digikam里标签为icloud的图片，同步到icloud(不确定标签会不会同
 截图定期删除
 图片定期归档到NAS的图片根目录
 文档类的可以OCR的，就转成文档的形式存储在Qsync或iCloud Drive
+通过QuMagie来代替苹果photos，云端可以编辑标签，不过标签不和文件内嵌的标签同步
+问题是QuMagie的元数据文件是如何存储，又如何备份呢？
+https://forum.qnap.com/viewtopic.php?t=145022 “Location of media library database on v4.3.5? How to access?”
 
 ~~iPhone的图片定期整理归档到mac photos，归档前需要清理下截图什么的~~
 ~~mac photos不连接iCloud，不然iCloud会存在很多照片。photos library放在NAS上，用作备份。~~

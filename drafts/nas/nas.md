@@ -119,6 +119,48 @@ swapon: ./qnap_swap: Device or resource busy
 [/share/CACHEDEV1_DATA/.swap] # swapon -p 0 ./qnap_swap
 ```
 
+```javascript
+async function scrollByPage(el, callback = () => {}) {
+    const y = el.scrollTop + el.clientHeight
+    el.scroll(0, y)
+    window.requestAnimationFrame(() => {
+        callback(el)
+        if (y < el.scrollHeight) scrollByPage(el, callback)
+    })
+}
+function selectAllWithinWindow() {
+    [...document.querySelectorAll('.col')].forEach(col => {
+        const checkbox = [...col.children[0].children[0].children]
+            .find(child => child.className.includes('Checkbox'))
+        if (!checkbox.children[0].children[0].attributes['xlink:href'].value.includes('box_selected_normal')) {
+            checkbox.click()
+        }
+    })
+}
+function selectAll() {
+    const scrollContainer = document.querySelector('.ReactVirtualized__Grid')
+    scrollContainer.scroll(0, 0)
+    selectAllWithinWindow()
+    scrollByPage(scrollContainer, selectAllWithinWindow)
+}
+```
+
+cp /share/CACHEDEV1_DATA/.system/autorun/autorun.sh
+
+autorun.sh
+```
+swapoff -a
+swapon -p 0 /share/CACHEDEV1_DATA/.swap/qnap_swap
+```
+
+```
+mount /dev/mmcblk0p5 /tmp/config
+vi /tmp/config/autorun.sh
+chmod +x /tmp/config/autorun.sh
+umount /tmp/config
+```
+
+
 [1]: https://www.zhihu.com/question/21359049/answer/34375825
 [2]: https://s.taobao.com/search?q=J3455
 [3]: https://www.bilibili.com/video/BV18W411f7u9?t=5m49s
@@ -138,4 +180,6 @@ swapon: ./qnap_swap: Device or resource busy
 [15]: https://post.smzdm.com/p/a4wmwkrl/ "利用tinyMediaManager刮削影片，解决plex电影墙的问题"
 [16]: https://www.bilibili.com/video/av94293208/
 [17]: https://forum.qnap.com/viewtopic.php?t=149957
+[17]: https://forum.qnap.com/viewtopic.php?t=130345
+[17]: https://wiki.qnap.com/wiki/Running_Your_Own_Application_at_Startup#Manual_edit_of_autorun.sh
 [18]: https://www.thegeekdiary.com/centos-rhel-how-to-prioritize-the-devices-used-for-swap-partition/
