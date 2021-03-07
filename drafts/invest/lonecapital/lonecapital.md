@@ -1,3 +1,40 @@
+https://www.youtube.com/watch?v=ijK3Smgik74
+
+00:00​ intro
+02:33​ 美國經濟數據解讀
+17:51​ 市場全景分析
+33:06​ 市場情緒分析（市場寬度）
+38:14​ SPY、QQQ、IWM 三大指數行情推演
+56:18​ TSLA、ARKK行情推演
+01:03:24​ 專題：什麼是顯而易見的系統性風險？
+01:16:09​ 互動問答
+01:31:18​ outro
+
+
+需要关注美元走势及美债收益率
+5835
+
+系统性风险：信心或信用崩溃
+信用：违约率暴增
+Markit CDX Index：追踪CDS的指数，Credit Default Swap (CDS)
+
+CDS
+https://www.investopedia.com/terms/c/creditdefaultswap.asp
+> 信用违约掉期（CDS）是一种金融衍生产品或合同，允许投资者与另一位投资者“互换”或抵消其信用风险。 例如，如果贷方担心借款人将拖欠贷款，则贷方可以使用CDS来抵消或交换该风险。 为了交换违约风险，贷方从另一名投资者那里购买CDS，后者同意在借款人违约的情况下偿还贷方。 大多数CDS都需要持续支付保费才能维持合同，就像保险单一样。
+
+CDX
+https://www.investopedia.com/terms/d/dowjonescdx.asp#:~:text=A%20credit%20default%20swap%20(CDS,or%20bankruptcy%20of%20an%20issuer.&text=Currently%2C%20the%20CDX%20contains%20125,and%20high%20yield%20(HY).
+
+去哪看CDX?
+http://www.markit.com/
+
+MA线短中期交叉，EMA短中期交叉验证，是一个很强的信号
+
+![市场宽度](./美股市場觀察%20EP.39｜以靜制動%20-%20YouTube_34'4.657''.jpg)
+
+
+##　市场宽度与狩猎区
+
 ## 美股市場觀察 EP.37｜最重要的事
 https://www.youtube.com/watch?v=WYRGEwWH5u8
 1 疫情单日跳高>10万， 餐馆生意以一半的容量达到疫情前全部容量的营业额，报复性消费
@@ -52,6 +89,7 @@ https://www.youtube.com/watch?v=WYRGEwWH5u8
 
 
 ## 美股市场观察 EP.38｜自知者明
+https://www.youtube.com/watch?v=ia9RIjVIeQw
 https://www.bilibili.com/video/BV16p4y1H7FS
 
 00:00 intro
@@ -271,4 +309,4 @@ Backtest 回测
 您如何看待量化投资投资？
 量化投资是否有可能成为主流？
 传统的趋势理论，技术分析得以成立的原因是，交易者作为人类的群体，在人性的层面具有规律。
-而量化投资将人性从交易中去除了，是否可以推断：当量化投资普及时，传统的趋势理论和技术分析会慢慢失效？
+量化投资将人性从交易中去除了，是否可以推断：当量化投资普及时，传统的趋势理论和技术分析会慢慢失效？
