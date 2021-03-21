@@ -1,3 +1,8 @@
+3-21
+下周short call apple jd
+
+
 2-26
 AAPL210305P114 1.04
 JD210305P89 1 1.23
+
