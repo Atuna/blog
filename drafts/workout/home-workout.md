@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=vc1E5CfRfos
+https://mp.weixin.qq.com/s/5gLRpGADV6ucf7WFI6OBEA
 
 Home workouts can be a lifesaver, especially in times when you cannot get to the gym. In this video, I’m going to give you a complete home workout routine with all sets and reps included to help you to build muscle regardless of whether or not you ever step foot in a gym. The key to the effectiveness of this perfect home workout is that it pairs exercises together in a way that allows you to train to greater overload than would be possible if you stuck with one single exercise, and it will keep the workouts brief at the same time.
 
