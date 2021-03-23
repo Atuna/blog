@@ -86,12 +86,27 @@ https://zhuanlan.zhihu.com/p/336795281
 4*6=24
 24/3 = 8
 
+170 明装暗装一样
+
+5*2W 适合卧室中间
+
+
+
 ## 灯带
 
 
 
 2.8*2+2.9+2.9*2+2.2+3.9 = 20.4
 2+1+2+1+1 = 7
+
+## 感应灯
+
+
+
+淋浴房 
+极窄
+1000 * 3
+
 
 
 [1]: https://www.epd.gov.hk/eia/register/report/eiareport/eia_2522017/EIA/html/Appendix/Appendix%2011.1.pdf
