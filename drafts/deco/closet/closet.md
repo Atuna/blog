@@ -133,3 +133,14 @@ https://www.ikea.cn/cn/zh/p/boaxel-bo-a-ke-sai-ke-tiao-shi-gua-yi-gan-bai-se-204
 加配电视柜层板尺寸：1片463mmx444mm 1片454mmx444mmx
 自带灯带开槽深度4mm，宽度10mm
 20天安装（五一前）
+
+
+CSSKBF
+108
+98 
+
+148-40=108=80+28 
+138=60+60+18=80+58
+
+148=60+60+28
+138-40=98=60+30+8
